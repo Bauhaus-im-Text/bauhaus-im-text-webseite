@@ -8,7 +8,7 @@ Font *italic* or **bold**.
 ## Header two
 
 New paragraph.
-Hyperlink looks like [HitHub Help] (https://help.github.com).
+Hyperlink looks like [GitHub Help](https://help.github.com).
 
 ### Header Three
 
