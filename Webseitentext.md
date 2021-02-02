@@ -15,12 +15,10 @@ Stiftung Bauhaus Dessau, Inv.-Nr. I 2546 D, Dokument, 1 Bl. (2. S.), 29,7 x 21,0
 
 Die Pilotprojekte Bauhaus im Text (2020-2022) widmen sich erstmals systematisch und kritisch dem textlichen Erbe
 des Bauhauses. Das Bauhaus gehört weltweit zum Kern der Erzählung von der klassischen Moderne, sei es 
-in Architektur, Design, Kunst, Pädagogik oder Theater. Doch das Bauhaus hat auch ein bedeutendes textliches Erbe 
-hinterlassen, dem bislang eher ein sekundärer Charakter in der Betrachtung der Architekturen, Objekte 
-und Bilder zugekommen ist.
-
-Das Verfassen und Veröffentlichen theoretischer wie auch literarischer und administrativer Texte war jedoch eines 
-der Hauptwesensmerkmale des Bauhauses als einer Schule der Moderne. Beinahe alle Lehrenden und auch einige Studierende haben 
+in Architektur, Design, Kunst, Pädagogik oder Theater. Darüber hinaus hat das Bauhaus auch ein bedeutendes textliches Erbe 
+hinterlassen, dem bislang eher ein sekundärer Charakter in der Betrachtung der Bauten, Objekte 
+und Bilder zugekommen ist. Das Verfassen und Veröffentlichen theoretischer wie auch literarischer und administrativer Texte war jedoch eines 
+der Hauptwesensmerkmale des Bauhauses als einer Schule der Moderne. Beinahe alle Lehrenden und nicht wenige der Studierenden haben 
 Wesentliches in Texten dargelegt. Diese Texte müssen zum integralen Bestandteil ihrer Arbeit und Lehre gezählt werden; eigene 
 Buch- und Zeitschriftenreihen zeugen in exemplarischer Weise davon. 
 
@@ -35,16 +33,14 @@ die Angehörige des Bauhauses zwischen 1919 und 1933 verfasst haben, sowie zwei 
 
 Verzeichnis: Texte 1919-1933
 
-Ein annotiertes Verzeichnis aller Schriften, die Bauhäusler*innen zu ihrer Zeit am Bauhaus und zum Bauhaus verfasst 
-haben, gibt es bisher nicht. Hans Maria Wingler legte 1962 mit dem Band Das Bauhaus: Weimar, Dessau, Berlin 1919–1933 
-zwar eine erste Anthologie vor, die die Rezeption des Bauhauses wesentlich prägte. Sie umfasst jedoch nur eine Auswahl 
-und zum Teil nur Auszüge der Texte. Auch spätere Publikationen befassen sich lediglich mit einzelnen Autor*innen oder 
+Ein annotiertes Verzeichnis aller Texte, die Bauhausangehörige zu ihrer Zeit am Bauhaus und zum Bauhaus verfasst 
+haben, gibt es bisher nicht. Hans Maria Wingler legte 1962 mit dem Buch Das Bauhaus. Weimar, Dessau, Berlin 1919–1933 
+zwar eine erste Anthologie vor, die die Rezeption des Bauhauses wesentlich prägte. Sie umfasst jedoch nur eine kleine Auswahl 
+und zum Teil nur Auszüge der Texte. Auch spätere Publikationen befassen sich lediglich mit einzelnen Autorinnen und Autoren oder 
 Bereichen. Das Forschungsprojekt Bauhaus im Text schließt somit eine große Lücke in der Bauhausforschung, indem es 
-erstmals umfassend die Veröffentlichungen bibliographisch sammelt und bislang ungedruckte Quellen archivalisch erfasst. 
-Das Textverzeichnis wird digital veröffentlicht und ein wertvolles Recherchewerkzeug für Forscher*innen sein.
+erstmals umfassend die Veröffentlichungen bibliographisch sammelt und bislang ungedruckte Quellen erfasst. Das Textverzeichnis wird digital veröffentlicht werden und ein wertvolles Recherchewerkzeug sein.
 
-
-Darüber hinaus entstehen parallel zwei historisch-kritische Hybrideditionen, die an zwei Texten exemplarisch den 
+Darüber hinaus entstehen parallel zwei historisch-kritische Hybrideditionen, die exemplarisch den 
 innovativen, textbasierten Zugang zum Bauhaus verdeutlichen und seine Möglichkeiten wie auch Kontexte in der bisherigen 
 Forschung aufzeigen sollen.
 
