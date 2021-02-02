@@ -71,10 +71,10 @@ der Schritt ins amerikanische Exil und ein Sprachwechsel, dessen Bedeutung für 
 zu unterschätzen ist. Die digitale historisch-kritische Edition wird daher genetisch angelegt sein und den komplexen 
 Entstehungs- und Schreibprozess von The New City anhand von Materialien aus Hilberseimers Nachlass sichtbar machen. Eine Leseausgabe wird den Text 
 zum ersten Mal in einer deutschen Übersetzung zugänglich machen. Die Edition entsteht in Kooperation mit dem Art Institute
-of Chicago, wo in den Ryerson and Burnham Libraries der schriftliche Nachlass Ludwig Hilberseimers verwahrt und verwaltet wird.
+of Chicago, wo in den Ryerson and Burnham Libraries der schriftliche Nachlass Ludwig Hilberseimers aufbewahrt wird.
 
 Eine Tagung vom 27. – 29.10.2021 an der Stiftung Bauhaus Dessau wird unter dem Titel Ludwig Hilberseimer: Infrastructures of 
-Modernity internationale Forscher*innen zusammenbringen, die Beiträge werden im Anschluss in einem Tagungsband gesammelt. 
+Modernity internationale Forscherinnen und Forscher zusammenbringen. Ihre Beiträge werden im Anschluss in einem Tagungsband publiziert werden. 
 Am 28.10.2021 eröffnet zudem das Zwischenspiel Hilberseimer: Infrastrukturen der Neuen Stadt im Bauhaus Museum Dessau.
 
 
@@ -82,7 +82,7 @@ Am 28.10.2021 eröffnet zudem das Zwischenspiel Hilberseimer: Infrastrukturen de
 
 Dr. Laura Gieser
 Kunsthistorikerin
-Annotiertes Textverzeichnis Bauhaus im Text (1919-1933)
+Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
 gieser@bauhaus-dessau.de
 
 Karoline Lemke
@@ -92,7 +92,7 @@ lemke@bauhaus-dessau.de
 
 Dr. Andreas Schätzke
 Architekturhistoriker
-Annotiertes Textverzeichnis Bauhaus im Text (1919-1933)
+Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
 schaetzke@bauhaus-dessau.de
 
 Clarissa Seidel
@@ -106,7 +106,7 @@ The New City. Principles of Planning (1944) von Ludwig Hilberseimer
 strob@bauhaus-dessau.de
 
 Wolfgang Thöner
-Leiter der Sammlungsabteilung der Stiftung Bauhaus Dessau
+Leiter der Sammlung der Stiftung Bauhaus Dessau
 bauhaus. sprachrohr der studierenden. organ der kostufra (1930-1932)
 thoener@bauhaus-dessau.de
 
