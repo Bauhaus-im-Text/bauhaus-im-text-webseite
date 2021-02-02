@@ -3,16 +3,6 @@ BAUHAUS IM TEXT (WEBSEITE)
 
 # Kurzbeschreibung
 
-„Es wird oft der Fehler gemacht, W. Gropius nur als Architekten herauszustellen, das stimmt nicht. 
-Er war auch ein ausgezeichneter Pädagoge und Schriftsteller. Er hat im Laufe seines langen Lebens 
-(er wurde 85 Jahre alt) zahlreiche Bücher geschrieben, mir sind allein 15 Buchtitel bekannt. 
-(Von vielen gelegentlichen Veröffentlichungen in Fachzeitschriften abgesehen).“
-
-Quelle: Fieger, Dora: Handschriftliche Notizen, o.J. 
-Stiftung Bauhaus Dessau, Inv.-Nr. I 2546 D, Dokument, 1 Bl. (2. S.), 29,7 x 21,0 cm.
-
-*
-
 Die Pilotprojekte Bauhaus im Text (2020-2022) widmen sich erstmals systematisch und kritisch dem textlichen Erbe
 des Bauhauses. Das Bauhaus gehört weltweit zum Kern der Erzählung von der klassischen Moderne, sei es 
 in Architektur, Design, Kunst, Pädagogik oder Theater. Darüber hinaus hat das Bauhaus auch ein bedeutendes textliches Erbe 
