@@ -65,12 +65,12 @@ Ludwig Hilberseimer (1885-1967) gilt als einer der führenden Theoretiker des Ne
 funktionalen Städtebaus. Sein Buch Großstadtarchitektur aus dem Jahr 1927 war maßgeblich für diese Sicht auf den Architekten, 
 Stadtplaner und Lehrer. Beginnend mit seiner Professur am Bauhaus in Dessau wandelte sich jedoch Hilberseimers Verständnis der 
 Stadt wesentlich: Lag sein Augenmerk in Großstadtarchitektur (1927) noch auf der Lösung infrastruktureller Probleme durch eine 
-vertikale Schichtung, verschränkte er in seiner nächsten grundlegenden Theorieschrift, The New City. Principles of Planning aus 
+vertikale Organisation, verschränkte er in seiner nächsten grundlegenden Theorieschrift, The New City. Principles of Planning aus 
 dem Jahr 1944, Stadt und Landschaft zu einer neuen Einheit. Dazwischen lagen entscheidende Jahre am Dessauer Bauhaus, aber auch 
-der Schritt ins amerikanische Exil und ein Sprachwechsel, der für den profilierten Autor hunderter Artikel und fünf Bücher nicht 
-zu unterschätzen ist. Die digitale historisch-kritische Edition wird daher genetisch angelegt sein, und den komplexen 
-Entstehungs- und Schreibprozess von The New City aus dem Nachlass heraus sichtbar machen. Eine Leseausgabe wird den Text 
-zum ersten Mal überhaupt in einer deutschen Übersetzung veröffentlichen. Die Edition entsteht in Kooperation mit dem Art Institute
+der Schritt ins amerikanische Exil und ein Sprachwechsel, dessen Bedeutung für den profilierten Autor von hunderten Artikeln und fünf Büchern nicht 
+zu unterschätzen ist. Die digitale historisch-kritische Edition wird daher genetisch angelegt sein und den komplexen 
+Entstehungs- und Schreibprozess von The New City anhand von Materialien aus Hilberseimers Nachlass sichtbar machen. Eine Leseausgabe wird den Text 
+zum ersten Mal in einer deutschen Übersetzung zugänglich machen. Die Edition entsteht in Kooperation mit dem Art Institute
 of Chicago, wo in den Ryerson and Burnham Libraries der schriftliche Nachlass Ludwig Hilberseimers verwahrt und verwaltet wird.
 
 Eine Tagung vom 27. – 29.10.2021 an der Stiftung Bauhaus Dessau wird unter dem Titel Ludwig Hilberseimer: Infrastructures of 
