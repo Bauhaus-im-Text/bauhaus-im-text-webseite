@@ -14,10 +14,10 @@ Stiftung Bauhaus Dessau, Inv.-Nr. I 2546 D, Dokument, 1 Bl. (2. S.), 29,7 x 21,0
 *
 
 Die Pilotprojekte Bauhaus im Text (2020-2022) widmen sich erstmals systematisch und kritisch dem textlichen Erbe
-des Bauhauses als solchem. Das Bauhaus gehört weltweit zum Kern der Erzählung von der klassischen Moderne, sei es 
+des Bauhauses. Das Bauhaus gehört weltweit zum Kern der Erzählung von der klassischen Moderne, sei es 
 in Architektur, Design, Kunst, Pädagogik oder Theater. Doch das Bauhaus hat auch ein bedeutendes textliches Erbe 
-hinterlassen, dem bislang eher ein illustrativer, sekundärer Charakter in der Betrachtung der Architekturen, Objekte 
-und Bilder zugekommen ist. 
+hinterlassen, dem bislang eher ein sekundärer Charakter in der Betrachtung der Architekturen, Objekte 
+und Bilder zugekommen ist.
 
 Das Verfassen und Veröffentlichen theoretischer (wie auch literarischer und administrativer) Texte war jedoch eines 
 der Hauptwesensmerkmale des Bauhauses als einer Schule der Moderne. Beinah alle Lehrenden und viele Studierende haben 
