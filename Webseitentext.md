@@ -38,7 +38,8 @@ haben, gibt es bisher nicht. Hans Maria Wingler legte 1962 mit dem Buch Das Bauh
 zwar eine erste Anthologie vor, die die Rezeption des Bauhauses wesentlich prägte. Sie umfasst jedoch nur eine kleine Auswahl 
 und zum Teil nur Auszüge der Texte. Auch spätere Publikationen befassen sich lediglich mit einzelnen Autorinnen und Autoren oder 
 Bereichen. Das Forschungsprojekt Bauhaus im Text schließt somit eine große Lücke in der Bauhausforschung, indem es 
-erstmals umfassend die Veröffentlichungen bibliographisch sammelt und bislang ungedruckte Quellen erfasst. Das Textverzeichnis wird digital veröffentlicht werden und ein wertvolles Recherchewerkzeug sein.
+erstmals umfassend die Veröffentlichungen bibliographisch sammelt und bislang ungedruckte Quellen erfasst. Das Textverzeichnis 
+wird digital veröffentlicht werden und ein wertvolles Recherchewerkzeug sein.
 
 Darüber hinaus entstehen parallel zwei historisch-kritische Hybrideditionen, die exemplarisch den 
 innovativen, textbasierten Zugang zum Bauhaus verdeutlichen und seine Möglichkeiten wie auch Kontexte in der bisherigen 
@@ -50,12 +51,12 @@ Edition: bauhaus. sprachrohr der studierenden. organ der kostufra (1930-1932)
 Anhand der Zeitschrift bauhaus. sprachrohr der studierenden. organ der kostufra, der Zeitschrift kommunistischer 
 Studierender, wird das bis heute viel und kontrovers diskutierte politische Leben und Wirken am historischen Bauhaus 
 untersucht. Die Zeitschrift erschien in hektografierter Form von 1930 bis 1932 in 15 Nummern mit einem variierenden 
-Umfang zwischen 5 und 18 Seiten, zusammen mit den involvierten studentischen Netzwerken und ihrem brieflichen Austausch 
-stellt sie ein wichtiges Forschungsdesiderat dar. Die Edition wird mit einem umfangreichen Apparat als historisch-kritische 
-Edition digital verfügbar gemacht, eine Leseausgabe wird zudem in Print erscheinen. 
+Umfang zwischen 5 und 18 Seiten. Zusammen mit den involvierten studentischen Netzwerken und ihrem brieflichen Austausch 
+handelt es sich bei der Zeitschrift um ein wichtiges Forschungsdesiderat. Die Edition wird mit einem umfangreichen Apparat als historisch-kritische 
+Edition digital verfügbar gemacht, eine Leseausgabe wird zudem in gedruckter Form erscheinen. 
 
-Eine Tagung zur Zeitschrift bauhaus. sprachrohr der studierenden. organ der kostufra ist für Februar 2022 geplant, 
-in einem Tagungsband sollen anschließend die Ergebnisse festgehalten werden.
+Eine Tagung zur Zeitschrift bauhaus. sprachrohr der studierenden. organ der kostufra ist für Februar 2022 geplant. Ihre Ergebnisse sollen anschließend
+in einem Tagungsband veröffentlicht werden.
 
 
 Edition: The New City. Principles of Planning (1944) von Ludwig Hilberseimer
