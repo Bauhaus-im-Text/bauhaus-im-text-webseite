@@ -19,16 +19,16 @@ in Architektur, Design, Kunst, Pädagogik oder Theater. Doch das Bauhaus hat auc
 hinterlassen, dem bislang eher ein sekundärer Charakter in der Betrachtung der Architekturen, Objekte 
 und Bilder zugekommen ist.
 
-Das Verfassen und Veröffentlichen theoretischer (wie auch literarischer und administrativer) Texte war jedoch eines 
-der Hauptwesensmerkmale des Bauhauses als einer Schule der Moderne. Beinah alle Lehrenden und viele Studierende haben 
-Wesentliches in Texten dargelegt, sie müssen zum integralen Bestandteil ihrer Arbeit und Lehre gezählt werden, eigene 
+Das Verfassen und Veröffentlichen theoretischer wie auch literarischer und administrativer Texte war jedoch eines 
+der Hauptwesensmerkmale des Bauhauses als einer Schule der Moderne. Beinahe alle Lehrenden und auch einige Studierende haben 
+Wesentliches in Texten dargelegt. Diese Texte müssen zum integralen Bestandteil ihrer Arbeit und Lehre gezählt werden; eigene 
 Buch- und Zeitschriftenreihen zeugen in exemplarischer Weise davon. 
 
 Die Pilotprojekte Bauhaus im Text markieren den Beginn eines neuen Forschungsschwerpunkts an der Stiftung Bauhaus Dessau. 
 Indem sie einen bislang einzigartigen, konzentrierten Fokus auf das textliche Erbe legen, ermöglichen sie einen innovativen 
 Zugang zum Verständnis des historischen Bauhauses und legen die Grundlagen für weitere Forschungen. Es entstehen – in 
 Kooperation mit Partnerinstitutionen weltweit – ein auf Vollständigkeit angelegtes, annotiertes Verzeichnis aller Texte, 
-die Bauhäusler*innen zwischen 1919 und 1933 verfasst haben, sowie zwei historisch-kritische Hybrideditionen. 
+die Angehörige des Bauhauses zwischen 1919 und 1933 verfasst haben, sowie zwei historisch-kritische Hybrideditionen. 
 
 
 # Teilprojekte
